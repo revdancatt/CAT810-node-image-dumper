@@ -1,7 +1,7 @@
 ![Screen Shot](http://cattopus23.com/img/panel-CAT810.png)
 
-Node Image Dumper
-=================
+CAT810 Node Image Dumper
+========================
 
 I had just started playing with Node.js and liked the idea of writing everything in javascript. For a while
 I'd been writing code to generate images using <canvas> but had no realistic way of saving the images down
